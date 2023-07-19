@@ -8,3 +8,6 @@ Discover technology from future! Help main character to pass all 5 levels! And t
 
 # Controls
 __A - left, D - right, W - jump, X - enter VR mode and LEFT mouse click to place virtual blocks, ESC - pause.__
+
+# Links
+You can find this game at [itch.io](https://felixjoykind.itch.io/vr)!
