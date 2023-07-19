@@ -18,3 +18,6 @@ __A - left, D - right, W - jump, X - enter VR mode and LEFT mouse click to place
 
 # Links
 You can find this game at [itch.io](https://felixjoykind.itch.io/vr)!
+
+# Credits
+This project was made possible by using [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) made by [javidx9](https://github.com/OneLoneCoder).
