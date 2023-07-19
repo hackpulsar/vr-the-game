@@ -1,0 +1,6 @@
+- Player is a boy in future that has a VR glasses with which he can place new blocks on a level, but cannot remove them. 
+- Also these blocks can only be seen when glasses are on.
+- Glasses have limited blocks to place (depends on a level)
+- Glasses can only be worn for limited time
+- Player finishes a level when reachs portal to the next one
+- Game ends when player finishes al the levels, so he goes back to his time (in future)
